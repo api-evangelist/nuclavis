@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nuclavis is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nuclavis.com/
+Nuclavis provides mobile‑first peer‑to‑peer fundraising solutions for nonprofit organizations. Its platform delivers branded mobile apps, messaging tools, QR code integration, and analytics to help fundraisers recruit, engage, and raise more money. The company integrates with major P2P fundraising platforms and offers white‑glove support throughout deployment.
+
+**Areas:** Fundraising · Mobile · Nonprofit · P2P · Messaging
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nuclavis.com/)
+- [Getting started](https://nuclavis.com/sign-up/)
+- [Sign up](https://nuclavis.com/sign-up)
+- [Support](http://support.nuclavis.com/)
+- [Changelog](https://nuclavis.com/release-notes/)
+- [Privacy policy](https://nuclavis.com/privacy-policy/)
+- [GitHub](https://github.com/nuclavis)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nuclavis/](https://apis.io/providers/nuclavis/).
